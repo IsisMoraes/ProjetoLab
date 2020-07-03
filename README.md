@@ -8,7 +8,6 @@ Equipe:
  - Gustavo Joshua
  - Isis Alves Moraes
  - Lucas Magno de Andrade Bastos
- - Murani de Moura Gomes
 
 
 # 1ª Quinzena de maio
